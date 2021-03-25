@@ -19,6 +19,8 @@
 
 [第二次作业成绩](第二次作业成绩.md)
 
+[结对作业一成绩](https://github.com/FZUSESPR21/Class_Resources/blob/master/%E7%BB%93%E5%AF%B9%E4%BD%9C%E4%B8%9A%E4%B8%80%E6%88%90%E7%BB%A9.md)
+
 
 
 
