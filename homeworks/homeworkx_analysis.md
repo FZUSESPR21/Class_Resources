@@ -1,4 +1,4 @@
-声明：本作业以北京航空航天大学的案例分析作业为基础（同时参考对象以邹欣老师[博客1](http://www.cnblogs.com/xinz/archive/2012/03/26/2417699.html?fileGuid=qk0PYOfe3cYJ6ha7)和[博客2](http://www.cnblogs.com/xinz/p/3308608.html?fileGuid=qk0PYOfe3cYJ6ha7)为基础进行修改），修改了评测对象、优秀作业、评分标准部分，添加了博客格式的要求。
+声明：本作业以北京航空航天大学的案例分析作业为基础（同时参考对象以邹欣老师[博客1](http://www.cnblogs.com/xinz/archive/2012/03/26/2417699.html?fileGuid=qk0PYOfe3cYJ6ha7)和[博客2](http://www.cnblogs.com/xinz/p/3308608.html?fileGuid=qk0PYOfe3cYJ6ha7)为基础进行修改），修改了评测对象、优秀作业、Bug反馈、评分标准部分，添加了博客格式要求。
 
 # 〇、说在前面的话
 很多同学有疑惑：
@@ -34,25 +34,25 @@
 
 首先提供往年的案例分析优秀作业用于参考：
 
-<<<<<<待补充
+[RadishBear](https://www.cnblogs.com/radishbear/p/12730986.html) [gnulxj](https://www.cnblogs.com/gnulxj/p/12728797.html) [冰糖葫芦棒棒冰](https://www.cnblogs.com/linlin123/p/12728306.html) [张家榜](https://www.cnblogs.com/dante206/p/12729435.html) [FZU_WSH](https://www.cnblogs.com/wshbolgs/p/12727743.html)
 
+[aahorse](https://www.cnblogs.com/aahorse/p/12706898.html) [theTuring](https://www.cnblogs.com/theTuring/p/12716970.html) [zwn-blog](https://www.cnblogs.com/zwn-blog/p/12721743.html) [tyheng](https://www.cnblogs.com/tyheng/p/12714007.html)
 
-
-/>>>>>>>待补充
+**注：本学期作业参考北航的作业要求，有不少细节和要求上的变动；上述参考仅供同学们大致了解本次作业内容**
 
 # 一、本学期供分析的产品：
 
 1. 作为一个 IT 行业的学生或从业者，如果你碰到了问题， 你去哪里寻找答案呢？ 请比较至少 3 个 IT 问答网站**并尝试体验提问和回答问题**：列出它们具体的优缺点，并说明如果你来主持工作，你会怎么改进。
-   1. CSDN开发者互助问答社区_程序员有问必答-CSDN问答
-   2. Stack Overflow - Where Developers Learn, Share, & Build Careers
-   3. Segment Fault
+   1. [CSDN开发者互助问答社区_程序员有问必答-CSDN问答](https://ask.csdn.net/?fileGuid=qk0PYOfe3cYJ6ha7)
+   2. [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/?fileGuid=qk0PYOfe3cYJ6ha7)
+   3. [SegmentFault 思否](https://segmentfault.com/)
 
+   **注：提问需要遵守相应社区规范，避免无意义的水问题。**
+   
 2. 代码仓库管理系统有很多，他们对于你熟悉的目标用户 （中国高校大学生）有什么缺陷和需要改进的地方，并且该如何改进？ 请**上手使用并分析**以下三个常见的代码仓库：
-   1. https://codechina.csdn.net
-   2. https://github.com
-   3. https://gitee.com
-
-
+   1. [CODE.CHINA](https://codechina.csdn.net)
+   2. [GitHub](https://github.com)
+   3. [Gitee](https://gitee.com)
 
 # 二、博客具体要求：
 
@@ -95,7 +95,11 @@
   - 对Bug的一系列其他分析，可以自由发挥
 
 - Bug 反馈（加分项）
-  - 如果你已经确定找到的 Bug 可复现，确实不是 Feature 或者乌龙，并且能让其他人也验证该 Bug 的存在，我们非常鼓励你你向开发团队提出 issue，请参考这个[Github 上的 issue](https://github.com/simplecov-ruby/simplecov-html/issues/92?fileGuid=qk0PYOfe3cYJ6ha7)，用**简洁准确**的语言进行描述。
+  - 对于开源软件，如果你已经确定找到的 Bug 可复现，确实不是 Feature 或者乌龙，并且能让其他人也验证该 Bug 的存在，我们非常鼓励你你向开发团队提出 issue，请参考这个[Github 上的 issue](https://github.com/simplecov-ruby/simplecov-html/issues/92?fileGuid=qk0PYOfe3cYJ6ha7)，用**简洁准确**的语言进行描述。例如：
+    - 对于GitHub Desktop，可以在这里提交issue：https://github.com/desktop/desktop
+  - 对于其他软件，通过官方提供的反馈方式提交你发现的Bug，例如：
+    - GitHub可访问：https://support.github.com/contact/feedback
+    - CSDN：https://ask.csdn.net/questions/7417967?spm=1005.2025.3001.5141
 
 提示: 体验提要
 
@@ -177,7 +181,33 @@ http://www.cnblogs.com/xinz/p/3308608.html
 
 对于上述市场概况、市场现状以及市场与产品生态部分，并在每个部分中**选择的回答至少三分之二的问题，做到有充足的证据支持并自圆其说**；对于产品规划部分，请做好完整的回答并阐述理由。以上内容均发布在自己的个人博客上面。
 
-# 三、评分标准
+# 三、格式和提交要求
+
+### 1、为了方便阅读以及助教评分，请大家在博客开头给出博文目录，作为内容的索引
+
+务必包含以下大标题，标题含义相近即可，你可以个性化你自己的大标题，并添加下属的小标题：
+- 第一部分 调研，评测
+- 第二部分 分析
+- 第三部分 建议和规划
+
+### 2、 为了方便其他学校的老师或者助教了解课程实况，请大家在作业开头添加格式描述：
+
+| 这个作业属于哪个课程 | <班级的链接>     |
+| :------------------- | :--------------- |
+| 这个作业要求在哪里   | <作业要求的链接> |
+| 这个作业的目标       | <写上具体方面>   |
+| 其他参考文献         | ...              |
+
+### 3、提交规则
+
+- 补交：在deadline 后两天内提交视为补交，得实际得分 * 50%；
+- 缺交：在deadline 之后两天未补交视为博客缺交，分数为0分；
+- 作业抄袭：当助教发现两篇博客文字/图片/代码过于相似时，判定两篇博客都为抄袭，分数都为-100%（注意是倒扣！）；
+- 伪造提交：虽然作业博客没有完成，但是先提交到作业占位置，判定为伪造提交，分数得0分；
+
+注：提前提交的作业，如果能积极响应助教和老师的反馈并在deadline前做出相应修改，在后续评分时，这些修改完善也会被纳入考量。提早准备好处多~
+
+# 四、评分标准
 
 从上面提供的7类候选软件中至少选择一类，对其优缺点进行系统分析。
 
