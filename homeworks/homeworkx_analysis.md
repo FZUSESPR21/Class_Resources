@@ -1,4 +1,4 @@
-声明：本作业以北京航空航天大学的案例分析作业为基础（同时参考对象以邹欣老师[博客1](http://www.cnblogs.com/xinz/archive/2012/03/26/2417699.html?fileGuid=qk0PYOfe3cYJ6ha7)和[博客2](http://www.cnblogs.com/xinz/p/3308608.html?fileGuid=qk0PYOfe3cYJ6ha7)为基础进行修改），修改了评测对象、优秀作业、Bug反馈、评分标准部分，添加了博客格式要求。
+声明：本作业以[北京航空航天大学的案例分析作业](https://edu.cnblogs.com/campus/buaa/BUAA_SE_2020_LJ/homework/10481)为基础（同时参考对象以邹欣老师[博客1](http://www.cnblogs.com/xinz/archive/2012/03/26/2417699.html?fileGuid=qk0PYOfe3cYJ6ha7)和[博客2](http://www.cnblogs.com/xinz/p/3308608.html?fileGuid=qk0PYOfe3cYJ6ha7)为基础进行修改），修改了评测对象、优秀作业、Bug反馈、评分标准部分，添加了博客格式要求。
 
 # 〇、说在前面的话
 很多同学有疑惑：
