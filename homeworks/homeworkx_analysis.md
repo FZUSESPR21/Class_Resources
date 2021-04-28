@@ -50,7 +50,7 @@
    2. [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
    3. [SegmentFault 思否](https://segmentfault.com/questions)
 
-   **注：提问需要遵守相应社区规范（例如[stackoverflow tour](https://stackoverflow.com/tour)，[如何写高质量的提问和回答](https://ask.csdn.net/questions/7400889)），避免无意义的水问题。**
+   **注：提问需要遵守相应社区规范（例如[stackoverflow how to ask](https://stackoverflow.com/questions/ask/advice)，[如何写高质量的提问和回答](https://ask.csdn.net/questions/7400889)，[SegmentFault FAQ](https://segmentfault.com/faq)），避免无意义的水问题。**
    
 2. 代码仓库管理系统有很多，他们对于你熟悉的目标用户 （中国高校大学生）有什么缺陷和需要改进的地方，并且该如何改进？ 请**上手使用并分析**以下三个常见的代码仓库：
    1. [CODE.CHINA](https://codechina.csdn.net)
@@ -118,6 +118,7 @@
   - 对于其他软件，通过官方提供的反馈方式提交你发现的Bug，例如：
     - GitHub可访问：https://support.github.com/contact/feedback
     - CSDN：https://ask.csdn.net/questions/7398651
+    - SegmentFault：https://segmentfault.com/0x
 
 ---
 
@@ -139,7 +140,8 @@
 
 ### 注
 
-博客需要分别描述同类中三个软件的体验、BUG和结论
+- 博客需要分别描述同类中三个软件的体验、BUG和结论；
+- 对于GItHub和Stack Overflow，找出功能性bug可能不是一件容易的事情；因此要求至少**三个测评对象中总共找到2个**功能性bug，可以主要针对CSDN的产品。
 
 ## 第二部分 分析(参考8.6节对工作的估计，和14.1节软件工程的质量)
 
