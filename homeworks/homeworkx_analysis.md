@@ -1,4 +1,4 @@
-声明：本作业以[北京航空航天大学的案例分析作业](https://edu.cnblogs.com/campus/buaa/BUAA_SE_2021_LR/homework/11869)为基础（同时参考对象以邹欣老师[博客1](http://www.cnblogs.com/xinz/archive/2012/03/26/2417699.html?fileGuid=qk0PYOfe3cYJ6ha7)和[博客2](http://www.cnblogs.com/xinz/p/3308608.html?fileGuid=qk0PYOfe3cYJ6ha7)为基础进行修改），修改了评测对象、优秀作业、Bug反馈、评分标准部分，添加了博客格式要求。
+声明：本作业以[北京航空航天大学的案例分析作业](https://edu.cnblogs.com/campus/buaa/BUAA_SE_2021_LR/homework/11869)为基础进行修改。（同时参考对象以邹欣老师[博客1](http://www.cnblogs.com/xinz/archive/2012/03/26/2417699.html?fileGuid=qk0PYOfe3cYJ6ha7)和[博客2](http://www.cnblogs.com/xinz/p/3308608.html?fileGuid=qk0PYOfe3cYJ6ha7)为基础进行修改）
 
 # 〇、说在前面的话
 很多同学有疑惑：
@@ -34,14 +34,16 @@
 
 首先提供往年的案例分析优秀作业用于参考：
 
-[RadishBear](https://www.cnblogs.com/radishbear/p/12730986.html) [gnulxj](https://www.cnblogs.com/gnulxj/p/12728797.html) [冰糖葫芦棒棒冰](https://www.cnblogs.com/linlin123/p/12728306.html) [张家榜](https://www.cnblogs.com/dante206/p/12729435.html) [FZU_WSH](https://www.cnblogs.com/wshbolgs/p/12727743.html)
+[RadishBear](https://www.cnblogs.com/radishbear/p/12730986.html), [gnulxj](https://www.cnblogs.com/gnulxj/p/12728797.html), [冰糖葫芦棒棒冰](https://www.cnblogs.com/linlin123/p/12728306.html), [张家榜](https://www.cnblogs.com/dante206/p/12729435.html), [FZU_WSH](https://www.cnblogs.com/wshbolgs/p/12727743.html)
 
-[aahorse](https://www.cnblogs.com/aahorse/p/12706898.html) [theTuring](https://www.cnblogs.com/theTuring/p/12716970.html) [zwn-blog](https://www.cnblogs.com/zwn-blog/p/12721743.html) [tyheng](https://www.cnblogs.com/tyheng/p/12714007.html)
+[aahorse](https://www.cnblogs.com/aahorse/p/12706898.html), [theTuring](https://www.cnblogs.com/theTuring/p/12716970.html), [zwn-blog](https://www.cnblogs.com/zwn-blog/p/12721743.html), [tyheng](https://www.cnblogs.com/tyheng/p/12714007.html)
 
 **注：本学期作业参考北航的作业要求，有不少细节和要求上的变动；上述参考仅供同学们大致了解本次作业内容**
 
 以及北航的两份作业作为参考：
-[VOIDMalkuth's Blog](https://www.cnblogs.com/VOIDMalkuth/p/14634341.html) [Shaun_Yao](https://www.cnblogs.com/tcyhost/p/14620045.html)
+[Shaun_Yao](https://www.cnblogs.com/tcyhost/p/14620045.html), [VOIDMalkuth's Blog](https://www.cnblogs.com/VOIDMalkuth/p/14634341.html)
+
+**注：上方两份作业分别选择了第一类产品和第二类产品；为了避免先入为主，你可以选择跳过这两份博客，待自己思考完作业主要部分后再参阅；禁止抄袭。**
 
 # 一、本学期供分析的产品：
 
@@ -59,9 +61,9 @@
 
 # 二、博客具体要求：
 
-## 第一部分 调研，评测(软件的 bug，功能评测，黑箱测试，第8章用户调研，12章软件的用户体验）（必答）
+## 第一部分 调研，评测(软件的 bug，功能评测，黑箱测试，第8章用户调研，12章软件的用户体验）
 
-下载并体验同类三个软件的功能，找出**至少1个高质量的功能性**bug。
+从两类产品中选择一类，体验同类中三个产品的功能，找出**至少1个高质量的功能性bug**。
 
 ### 体验
 
@@ -155,13 +157,13 @@
 
 那么：
 
-1. 使用此服务的所有功能，估计这个软件/网站/服务做到这个程度大约需要多少时间(团队人数6人左右，计算机大学毕业生，并有专业UI支持)。**（必答）**
+1. 使用此服务的所有功能，估计这个软件/网站/服务做到这个程度大约需要多少时间(团队人数6人左右，计算机大学毕业生，并有专业UI支持)。
 
-2. 分析这个软件目前的优劣(和类似软件相比)，这个产品的质量在同类产品中估计名列第几？**（必答）**
+2. 分析这个软件目前的优劣(和类似软件相比)，这个产品的质量在同类产品中估计名列第几？
 
-3. 从各方面的问题，推理出这个软件团队在软件工程方面可以提高的一个重要方面(具体建议)。
+3. 【加分项】从各方面的问题，推理出这个软件团队在软件工程方面可以提高的一个重要方面(具体建议)。
 
-4. 你在第一部分发现的bug，为何软件团队不能在发布前修复？他们是不知道，还是有意不修复？你觉得是什么原因？可以从下面的可能性中选取几个：
+4. 【加分项】你在第一部分发现的bug，为何软件团队不能在发布前修复？他们是不知道，还是有意不修复？你觉得是什么原因？可以从下面的可能性中选取几个：
 
    > - 对用户需求掌握不好
    > - 具体的设计质量不高
@@ -192,7 +194,7 @@
   - 如果你是项目经理，可以招聘**6个人**，并且有**4个月**的时间，你认为应该如何配置角色(开发，测试，美工等等) 才能在第16周如期发布软件的改进版本，并取得预想中的成绩。
   - **请为你的团队设计16个周期每周的详细规划。**
 
-对于上述市场概况、市场现状以及市场与产品生态部分，并在每个部分中**选择的回答至少三分之二的问题，做到有充足的证据支持并自圆其说**；对于产品规划部分，请做好完整的回答并阐述理由。以上内容均发布在自己的个人博客上面。
+对于市场概况、市场现状以及市场与产品生态部分，**选择回答至少三分之二的问题，做到有充足的证据支持并自圆其说**；对于产品规划部分，请做好完整的回答并阐述理由。
 
 # 三、格式和提交要求
 
@@ -215,8 +217,8 @@
 - 第二部分 分析
   - 开发时间估计
   - 同类产品对比排名
-  - 软件工程方面的建议
-  - BUG存在的原因分析
+  - [软件工程方面的建议]
+  - [BUG存在的原因分析]
 - 第三部分 建议和规划
   - 市场概况
   - 市场现状
